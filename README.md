@@ -24,15 +24,13 @@ Berikut beberapa proyek yang sedang saya kerjakan atau yang baru-baru ini saya s
 
 [![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=nama_pengguna&show_icons=true&hide_border=true)](https://github.com/nama_pengguna)
 
-## Cara Menghubungi Saya
+## Cara Menghubungi Saya-->
 
 Anda dapat menghubungi saya melalui:
 
-- Email: [alamat email Anda]
-- LinkedIn: [Profil LinkedIn Anda]
-- Twitter: [@nama_twitter]
+- Email: vivianti852@gmail.com
 
-Jangan ragu untuk menghubungi saya jika Anda memiliki pertanyaan, saran, atau ingin berkolaborasi. Saya senang berkenalan dengan sesama pengembang!-->
+Jangan ragu untuk menghubungi saya jika Anda memiliki pertanyaan, saran, atau ingin berkolaborasi. Saya senang berkenalan dengan sesama pengembang!
 
 Terima kasih sudah mengunjungi profil GitHub saya.
 
